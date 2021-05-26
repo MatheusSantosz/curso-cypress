@@ -4,7 +4,9 @@
   "description": "Curso de Cypress da Escola TAT",
   "main": "index.js",
   "scripts": {
-    "test": "cypress run"
+    "cypress": "cypress run",
+    "cypress:chrome": "cypress run -b chrome",
+    "cypress:open": "cypress open
   },
   "keywords": [
     "cypress",
