@@ -1,1 +1,11 @@
-{}
+ lines (10 sloc)  284 Bytes
+  
+{
+        "extends":"./base.jason",
+    "$schema":  "https://on.cypress.io/cypress.schema.json",
+    "projectId": "u1rhe2",
+    "env":{
+        "user": "matheuss-cypress"  
+      },
+          "experimentalSourceRewriting": true
+}
