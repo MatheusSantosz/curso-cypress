@@ -2,10 +2,8 @@
   
 {
         "extends":"./base.jason",
-    "$schema":  "https://on.cypress.io/cypress.schema.json",
-    "projectId": "18ve8f",
-    "env":{
-        "user": "matheuss-cypress"  
-      },
-          "experimentalSourceRewriting": true
-}
+        "user": "matheus-cypress" ,
+    "projectId": "18ve8f"
+ 
+}    
+

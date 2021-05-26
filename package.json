@@ -18,5 +18,14 @@
   "license": "MIT",
   "dependencies": {
     "cypress": "^6.3.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheusSantosz/curso-cypress.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MatheusSantosz/curso-cypress/issues"
+  },
+  "homepage": "https://github.com/MatheusSantosz/curso-cypress#readme"
 }
